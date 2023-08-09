@@ -5,5 +5,5 @@ Qlora finetuning to baichuan-13b
 并无二致
 
 # 参考
-https://github.com/taishan1994/baichuan-Qlora-Tuning
+https://github.com/taishan1994/baichuan-Qlora-Tuning  
 https://github.com/yangjianxin1/Firefly
